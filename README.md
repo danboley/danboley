@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 👨‍💻 All of my projects are available at [www.danboley.com](www.danboley.com)
+- 👨‍💻 All of my projects are available at <a href="https://danboley.com" target="blank">danboley.com</a>
 
 - 📫 How to reach me **danboley1@gmail.com**
 
