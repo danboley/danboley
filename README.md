@@ -1,5 +1,3 @@
-# danboley
-
 <h1 align="center">Howdy 👋, I'm Daniel</h1>
 <h3 align="center">A full stack developer</h3>
 
