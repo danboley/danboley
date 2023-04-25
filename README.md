@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 👨‍💻 All of my projects are available at <a href="https://danboley.com" target="blank">danboley.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://danboley.com" target="_blank">danboley.com</a>
 
 - 📫 How to reach me **danboley1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daniel-boley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-boley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-boley" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-boley" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
