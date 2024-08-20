@@ -1,7 +1,7 @@
 <h1 align="center">👋 Howdy, I'm Daniel!</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 
-- 🌱 I’m currently learning **MapBox**
+- 🌱 I’m currently learning **Node.js, Express.js, & MapBox**
 
 - 👨‍💻 All of my projects are available at: [My Personal Website](https://www.danboley.com)
 
